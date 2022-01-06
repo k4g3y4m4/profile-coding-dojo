@@ -59,7 +59,7 @@ button:hover{
 
 
 .container {
-    width: 400px;
+    width: 800px;
     margin: 0 auto;
     margin-left:10px;
     margin-bottom: 20px;
@@ -131,7 +131,7 @@ a{
 
 
 .con{
-    width: 100%;
+    width: 75%;
     background-color: white;
     border: 2px solid grey;
     margin-bottom: 20px;
